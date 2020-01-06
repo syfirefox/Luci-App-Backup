@@ -1,19 +1,19 @@
 [Adblock Plus 2.0]
-! title: ³Ë·ç ¹ã¸æ¹ıÂË¹æÔò
+! title: ä¹˜é£å¹¿å‘Šè¿‡æ»¤è§„åˆ™
 ! Version: 2019006111
 ! Expires: 2 days
 ! Homepage: http://bbs.kafan.cn/thread-1866845-1-1.html
 @@|http*$stylesheet
 @@|http*$domain=taobao.com|alipay.com|suning.com|vmall.com|etao.com|tmall.com|paipai.com|jd.com|jd.hk|i.qq.com|my.csdn.net
 |http://js*$xmlhttprequest,third-party
-! ÆÁ±ÎµÚÈı·½×ÊÔ´
+! å±è”½ç¬¬ä¸‰æ–¹èµ„æº
 |http*$third-party,~image,domain=snwx8.com|m.xinguli.com|520xsla.com|dhzw.org|muyuge.com|92to.com|xunzai.com|xxs84.com|biqudao.com|bequge.com|qu.la
 |http*$third-party,domain=hjwzw.com|xbiquge6.com|newbtspread.com|share.dmhy.org
 |http*$third-party,subdocument,domain=tieba.baidu.com
-! NoScript£¬¿É¼ÓÉÏ×Ô¼ºÒª¹ıÂËµÄÓòÃû
+! NoScriptï¼Œå¯åŠ ä¸Šè‡ªå·±è¦è¿‡æ»¤çš„åŸŸå
 |http*$script,domain=eywedu.org|365essay.com|baishuku.la
 |http*$subdocument,domain=u17.com|music.baidu.com
-!--------------------------°Ù¶È----------------------------------
+!--------------------------ç™¾åº¦----------------------------------
 ||cpro.
 ||dup.baidustatic.com/
 ||ubmcmm.baidustatic.com/
@@ -52,14 +52,14 @@ v.baidu.com##div[videoadv],a[href^="http://g.youxi.v.baidu."]
 www.baidu.com###content_left>div:not(.c-container),#content_right>table td>:not(#con-ar)
 www.baidu.com##div.c-container:has(a[data-landurl])
 zhidao.baidu.com###left-promotion,#ui-tooltip-0,div.cms-slide.cms-slide-optimus,div.wgt-bottom-ask,div.cms-slide.cms-slide-lazy
-!--Ìù°É---
+!--è´´å§---
 tieba.baidu.com###guide_fc,#global_notice_wrap,.content_top,.forum_header>div:first-child,.app_forum_top_nav,#encourage_entry,[id^=pagelet_encourage-appforum],.iframe_wrapper.clearfix,.d_sign_split~*,#thread_list>li:not([class*=thread_]),#j_p_postlist>div:not([data-field]):not(#j_p_postlist),#j_p_postlist>div[data-isautoreply],#game_live_list,#com_u9_head,.play_list_panel.j_play_list_panel,div.search_main_wrap~*,#aside_ad,a.j_click_stats.img_wrap,div.firework-wrap,ul.tbui_aside_float_bar+div.clearfix
 tieba.baidu.com###j_p_postlist>div.l_post_bright:has(a.j_click_stats.img_wrap)
 @@||tb1.bdstatic.com/??/tb/_/*/ad_$script
 ||tb1.bdstatic.com/??/tb/_/game_iframe_common_$script
 ||tb1.bdstatic.com/??/tb/_/game_rank_in_head_$script
 ||tb1.bdstatic.com/tb/cms/frs/bg/$image
-!----------------------Í¨ÓÃ¡¢¹ã¸æÁªÃËÕ¾µã-----------------------
+!----------------------é€šç”¨ã€å¹¿å‘Šè”ç›Ÿç«™ç‚¹-----------------------
 ||ad.
 */ad.
 */ad/$domain=~www.xingk.cc|~iqiyi.com
@@ -90,7 +90,7 @@ tieba.baidu.com###j_p_postlist>div.l_post_bright:has(a.j_click_stats.img_wrap)
 ||1133.cc^
 ||114so.cn/
 ||1234xm.com/
-! µçĞÅ½Ø³Öµ¯´° 3ĞĞ
+! ç”µä¿¡æˆªæŒå¼¹çª— 3è¡Œ
 ||189.cn/$popunder
 ||greenet.cn/$popunder
 ||189.gd/$popunder
@@ -311,7 +311,7 @@ pageMediaControl*$script
 */stat.
 ||wan.$~image
 ||iwan.$third-party
-!-------------------Í¨ÓÃ½Å±¾¹ã¸æ--------------------
+!-------------------é€šç”¨è„šæœ¬å¹¿å‘Š--------------------
 */51ads/
 @@||img05.zhaopin.cn/2014/common/js/za/ga.js
 */ga.js^
@@ -347,7 +347,7 @@ pageMediaControl*$script
 */tj.js|
 */tongji.js|$domain=~zongheng.com
 */tk.*.php?id=
-!-------------------ÏÂÔØÕ¾µã-----------------------
+!-------------------ä¸‹è½½ç«™ç‚¹-----------------------
 *.gif|$image,domain=3987.com|www.ouyaoxiazai.com|www.myhack58.com
 www.3987.com##.downinfo > .fr, .show.xiazai_bj
 ||statics.3987.com/all_site/$script
@@ -447,7 +447,7 @@ yxdown.com##.bg_l,.bg_r,div.gg,div[id$=_ads]
 ||www.zolsky.com/killsoftware/sdsoft/page2/newad/$script
 ||www.zolsky.com/hotsoft/$subdocument,script
 ||www.zolsky.com/read/readad/$subdocument
-! ÖĞ¹Ø´åÔÚÏß
+! ä¸­å…³æ‘åœ¨çº¿
 www.zol.com.cn##.side-news-nointel.side-news,#bgad
 www.zol.com.cn,www.91danji.com,92btbtt.com##body:style(background: center !important)
 zol.com.cn##.down-h4,span.down-alink,div[class^=ad_],div[class*=-ad],div[class|=ad],div[id^=AD_]
@@ -499,7 +499,7 @@ qq.com##div[bosszone=tymyd],div[id^=AdZone],#coo_qqBrowser,div.ad-banner,div.sid
 ||swa.gtimg.com/
 ||wb.gtimg.com/adwin/
 sports.qq.com##.ad-wrapper,#focus_jordon,.ad_r_85,div[class|=gg],div.layout.mt35,div[adconfig_charset]
-!-------------------ÍøÒ×--------------------
+!-------------------ç½‘æ˜“--------------------
 @@||bnet.163.com/
 ||g.163.com/$~object-subrequest
 ||img1.126.net/
@@ -531,7 +531,7 @@ mail.163.com,mail.126.com##.emailSuggest,#theme,.gWel-bottom
 www.so.com##div.e-buss
 ||www.so.com/paOScore/ads
 hao.360.cn##div.small-obj.animate,#corner-flash
-!-------------------ĞÂÀË--------------------
+!-------------------æ–°æµª--------------------
 ||sinaimg.cn/unipro/$domain=~video.sina.com.cn|~weibo.com
 ||sina.com.cn/iframe/76/$subdocument
 ||sina.com.cn/litong/
@@ -567,7 +567,7 @@ ifeng.com##.slide_popo_modal,div[class^=pao_],div[class^=adList],div[class^=adbo
 ||y2.ifengimg.com/xingzhao/JS/bsgspecial.js$script
 v.ifeng.com##.vAdbox,div.vAdImg,div.newAdImg,div.ad300,div.ad1000,div.vPlayerAdbox,div.main+.scrollcol
 @@||ifengimg.com/*/ad.js
-!-------------------Ğ¡ËµÕ¾µã-----------------------
+!-------------------å°è¯´ç«™ç‚¹-----------------------
 qidian.com##.body-rec-mask~*,#j-topHeadBox,#tr-banner,#topGameOp,div.banner-wrap,a[href*="game.qidian.com/"],div.book-list li:last-child,div.focus-img.cf,#DoublePop_right,#DoublePop_left
 ||qidian.com/ejs/qd/js/read.qidian.com/gameBox.
 ||cj.qidian.com/Picture/$image
@@ -592,7 +592,7 @@ ty2016.net##div[class^=bread_]
 ||a.lz13.cn/
 ||cgm.shicimingju.com
 ||www.shicimingju.com/scmjddd/
-!-------------------²Æ¾­--------------------
+!-------------------è´¢ç»--------------------
 ||www.chnmoney.com/skin/$script
 ||www.chnmoney.com/dfile/$script,image
 www.chnmoney.com##.tonglan
@@ -675,7 +675,7 @@ pcpop.com##[id^=ad_],div.ad1,div.pcpop_ad1,div#banner9th
 www.v2ex.com###Rightbar>div.box:nth-of-type(2)~*
 ||v2ex.assets.uxengine.net/assets/sidebar/$image
 zhihu.com##.Banner.Card,.shameimaru-section,.Banner-image,.Banner-image
-!-------------------ÔÓÏî--------------------
+!-------------------æ‚é¡¹--------------------
 1ting.com##[id^=tingx_]
 |http://www.1ting.com/$subdocument
 ||mail.21cn.com/w2/source/images/firstpagecont/$image
@@ -729,7 +729,7 @@ bbs.xmfish.com##div[id^=adm_show_]
 ||www.zhujiceping.com/F/$image
 ||www.zhujiceping.com/wp-content/uploads/$script
 @@||www.zimuku.net/$script
-!-------------------Ó°ÊÓ×ÊÔ´--------------------
+!-------------------å½±è§†èµ„æº--------------------
 ||2kandy.com/js/$script
 |http://www.36dm.com/js/
 |http://www.36dm.com/tbklb/
@@ -763,7 +763,7 @@ yatu.tv###loadimg,#daohang
 ||ygdy8.com/jsy/
 ||img.zimuzu.tv/52meiju$image
 ||img.91dict.com/$image,domain=zimuzu.tv
-!-------------------ÊÓÆµÕ¾µã--------------------
+!-------------------è§†é¢‘ç«™ç‚¹--------------------
 ||com/pic/fgr/$script,object-subrequest
 ||www.youtube.com/annotations_invideo?$xmlhttprequest
 ||s.youtube.com/api/stats/
@@ -852,7 +852,7 @@ yinyuetai.com##.gbox,video~div,.shopMoney,div[class^=ad_],a.pic[href^="http://sh
 ||bokecc.com/flash/playlog?
 ||click.bokecc.com/
 ||imedia.bokecc.com/
-!------------------¾«¼ò×Ôadbyby¹æÔò------------------
+!------------------ç²¾ç®€è‡ªadbybyè§„åˆ™------------------
 @@*.org/admin$image
 @@*/ad_js.php?aid=10004
 @@*/adpolestar/wayl
