@@ -1,4 +1,4 @@
-﻿[Adblock Plus 2.1]
+[Adblock Plus 2.1]
 ! Version: 20191126000
 ! Title:  ChinaListV2.0[20191126000]
 ! Last modified: 2019/11/26 17:21:39 +0800
