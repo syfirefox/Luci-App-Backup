@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "bybit-exchange.github.io",
+        "bybit.ada.support"
+      ],
+      "domain_suffix": [
+        "bybit.com",
+        "bycsi.com",
+        "bytick.com",
+        "byapis.com",
+        "bycbe.com",
+        "bymj.io"
+        "ip.sb"
+        "ipapi.co"
+        "ipwho.is"
+        "ffe390afd658c19dcbt707e0597b846d.de"
+        "ffbbbdc6d3c353211fe2ba39c9f744cd.com"
+        "byabcde.com"
+        "bybdc6.com"
+        "bybitglobal.com"
+        "bymj.io"
+        "bymj.io"
+        "bymj.io"
+        "bymj.io"
+        "bymj.io"
+        "bymj.io"
+        "bymj.io"
+      ],
+      "domain_keyword": [
+        "bybit",
+        "bycsi",
+        "bytick",
+        "byapis",
+        "bycbe"
+        "bybdc6"
+        "byd3c3"
+        "appsflyersdk"
+        "byabcde"
+      ]
+    }
+  ]
+}
