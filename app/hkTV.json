@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "edge.api.brightcove.com",
+        "mytvsuper.com",
+        "bcbolt446c5271-a.akamaihd.net"
+      ],
+      "domain_suffix": [
+        "viu.com",
+        "viu.now.com",
+        "viu.tv",
+        "cognito-identity.us-east-1.amazonaws.com",
+        "mobileanalytics.us-east-1.amazonaws.com",
+        "d1k2us671qcoau.cloudfront.net",
+        "d2anahhhmp1ffz.cloudfront.net",
+        "dfp6rglgjqszk.cloudfront.net",
+
+        "bigbigchannel.com.hk",
+        "bigbigshop.com",
+        "tvb.com",
+        "tvbanywhere.com",
+        "tvbanywhere.com.sg",
+        "tvbc.com.cn",
+        "tvbeventpower.com.hk",
+        "tvbusa.com",
+        "tvbweekly.com",
+        "tvmedia.net.au",
+
+         "encoretvb.com",
+         "content.jwplatform.com",
+         "videos-f.jwpsrv.com",
+
+         "mytvsuperlimited.hb.omtrdc.net",
+         "mytvsuperlimited.sc.omtrdc.net"
+
+        
+      ],
+      "domain_keyword": [
+        "viu"
+        "tvbanywhere"
+        "tvb"
+      ]
+    }
+  ]
+}
