@@ -9,8 +9,15 @@
       ],
       "domain_suffix": [
         "viu.com",
+        "nowe.com",
+        "now-tv.com",
         "viu.now.com",
         "viu.tv",
+        "viu.now.com",
+        "bootstrapcdn.com",
+        "jwpcdn.com",
+        "jwplayer.com",
+        "infinity-c15.youboranqs01.com",
         "cognito-identity.us-east-1.amazonaws.com",
         "mobileanalytics.us-east-1.amazonaws.com",
         "d1k2us671qcoau.cloudfront.net",
@@ -23,6 +30,8 @@
         "tvbanywhere.com",
         "tvbanywhere.com.sg",
         "tvbc.com.cn",
+        "cdn.hgc.com.hk",
+        "tvb-message-center.appspot.com",
         "tvbeventpower.com.hk",
         "tvbusa.com",
         "tvbweekly.com",
@@ -33,6 +42,7 @@
          "videos-f.jwpsrv.com",
 
          "mytvsuperlimited.hb.omtrdc.net",
+          "mytvsuper.com",
          "mytvsuperlimited.sc.omtrdc.net"
 
         
@@ -40,6 +50,7 @@
       "domain_keyword": [
         "viu",
         "tvbanywhere",
+        "mytvsuper",
         "tvb"
       ]
     }
