@@ -14,9 +14,11 @@
 "entsrv-uk.vodafone.com"
       ],
       "domain_suffix": [
-        "ls.apple.com",
         "Giffgaff.com",
         "vodafone.com"
+      ],
+      "domain_keyword": [
+        "gspe"
       ]
 
     }
