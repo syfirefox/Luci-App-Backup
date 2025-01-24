@@ -18,7 +18,23 @@
         "vodafone.com"
       ],
       "domain_keyword": [
-        "ssl.ls.apple.com"
+        "gsp-ssl.ls.apple.com",
+        "gsp1-ssl.ls.apple.com",
+        "gsp3-ssl.ls.apple.com",
+        "gsp11-ssl.ls.apple.com",
+        "gsp12-ssl.ls.apple.com",
+        "gsp19-ssl.ls.apple.com",
+        "gsp21-ssl.ls.apple.com",
+        "gsp35-ssl.ls.apple.com",
+        "gsp45-ssl.ls.apple.com",
+        "gsp48-ssl.ls.apple.com",  
+        "gsp57-ssl.ls.apple.com",
+        "gsp72-ssl.ls.apple.com",
+        "gsp76-ssl.ls.apple.com",
+        "gsp79-ssl.ls.apple.com",
+        "gsp85-ssl.ls.apple.com",
+        "gsp92-ssl.ls.apple.com",
+        "gsp111-ssl.ls.apple.com"
       ]
 
     }
