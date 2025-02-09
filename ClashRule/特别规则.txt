@@ -1,0 +1,8 @@
+利用 Clash 规则 可以规避 PikPak 的地区检测，解决 PikPak 当前地区不可用的问题。
+host-keyword, dl-a10b-, direct
+host-keyword, dl-z01a-, direct
+host, access.mypikpak.com, reject
+host, access.pikpak.me, reject
+host, access.mypikpak.net, reject
+host, access.pikpakdrive.com, reject
+=========================================================================
