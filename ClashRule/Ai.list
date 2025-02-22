@@ -112,6 +112,10 @@ DOMAIN-SUFFIX,meta.ai
 #Perplexity AI
 DOMAIN-SUFFIX,perplexity.ai
 
-#Siri
+#Siri&Intelligence
 DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN,guzzoni.smoot.apple.com
+
+
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-relay
