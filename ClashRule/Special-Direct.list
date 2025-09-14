@@ -1,3 +1,10 @@
 # NAME: pikpak 下载域名
 DOMAIN-KEYWORD,dl-a10b-
 DOMAIN-KEYWORD,dl-z01a-
+# NAME: XiaoHongShu
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+DOMAIN-SUFFIX,fengkongcloud.com
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,xhscdn.net
+DOMAIN-SUFFIX,xiaohongshu.com
