@@ -1,29 +1,27 @@
-- DOMAIN-SUFFIX,kkzycdn.com
-- DOMAIN-SUFFIX,syfox.eu.org
-- DOMAIN-SUFFIX,v.cdnlz22.com
-- DOMAIN-SUFFIX,vod6.bdzybf11.com
-- DOMAIN-SUFFIX,v12.hijjll.com
-- DOMAIN-SUFFIX,v6.qrrr56.com
-- DOMAIN-SUFFIX,v10.oppqrs.com
-- DOMAIN-SUFFIX,v9.stuvww.com
-- DOMAIN-SUFFIX,v10.bcde00.com
-- DOMAIN-SUFFIX,cdn.wlcdn99.com
-- DOMAIN-SUFFIX,vodafone.de
-- DOMAIN-SUFFIX,myfin.bg
-- DOMAIN-SUFFIX,agedm.org
-- DOMAIN-SUFFIX,agedm.io
-- DOMAIN-SUFFIX,vip.dytt-cine.com
-- DOMAIN-SUFFIX,vip.dytt-cinema.com
-- DOMAIN-SUFFIX,vip.dytt-kan.com
-- DOMAIN-SUFFIX,vip.dytt-hot.com
-- DOMAIN-SUFFIX,vip.dytt-watch.com
+DOMAIN-SUFFIX,kkzycdn.com
+DOMAIN-SUFFIX,syfox.eu.org
+DOMAIN-SUFFIX,v.cdnlz22.com
+DOMAIN-SUFFIX,vod6.bdzybf11.com
+DOMAIN-SUFFIX,v12.hijjll.com
+DOMAIN-SUFFIX,v6.qrrr56.com
+DOMAIN-SUFFIX,v10.oppqrs.com
+DOMAIN-SUFFIX,v9.stuvww.com
+DOMAIN-SUFFIX,v10.bcde00.com
+DOMAIN-SUFFIX,cdn.wlcdn99.com
+DOMAIN-SUFFIX,vodafone.de
+DOMAIN-SUFFIX,myfin.bg
+DOMAIN-SUFFIX,agedm.org
+DOMAIN-SUFFIX,agedm.io
+DOMAIN-SUFFIX,vip.dytt-cine.com
+DOMAIN-SUFFIX,vip.dytt-cinema.com
+DOMAIN-SUFFIX,vip.dytt-kan.com
+DOMAIN-SUFFIX,vip.dytt-hot.com
+DOMAIN-SUFFIX,vip.dytt-watch.com
 #zy-完美世界
-- DOMAIN-SUFFIX,ukzy.ukubf3.com
+DOMAIN-SUFFIX,ukzy.ukubf3.com
 #茶杯APP
-#- DOMAIN-SUFFIX,vip.ffzy-video.com
-- DOMAIN-KEYWORD,ffzy
+DOMAIN-KEYWORD,ffzy
 #动漫巴士
-- DOMAIN-KEYWORD,dm84
+DOMAIN-KEYWORD,dm84
 #HK群晖
-- DOMAIN-SUFFIX,synology.com
-- DOMAIN-SUFFIX,1lou.me
+DOMAIN-SUFFIX,synology.com
