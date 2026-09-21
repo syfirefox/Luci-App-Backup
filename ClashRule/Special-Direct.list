@@ -35,5 +35,10 @@ DOMAIN-KEYWORD,dm84
 #HK群晖
 DOMAIN-SUFFIX,synology.com
 DOMAIN-SUFFIX,1lou.me
+# 红果内容直连（避免加载异常）
+DOMAIN-SUFFIX,hongguo.com
+DOMAIN-SUFFIX,hongguo.douyin.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,pstatp.com
 #自建
 DOMAIN-SUFFIX,234345.xyz
