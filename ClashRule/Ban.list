@@ -19,3 +19,16 @@ DOMAIN-SUFFIX,wanfeng1.com
 DOMAIN-SUFFIX,wep016.top
 DOMAIN-SUFFIX,win-stock.com.cn
 DOMAIN-SUFFIX,zantainet.com
+# 红果核心广告拦截（必加）
+DOMAIN-SUFFIX,hongguoapp.com
+DOMAIN-SUFFIX,hongguosdk.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,pglstatp-toutiao.com
+DOMAIN-KEYWORD,ad-union-sdk
+DOMAIN-KEYWORD,be-pack
+DOMAIN-KEYWORD,hongguo.ad,REJECT
+# 字节系广告兜底（红果隶属字节）
+DOMAIN-SUFFIX,ad.pangle.cn,REJECT
+DOMAIN-SUFFIX,ad.pangolin.cn
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-KEYWORD,tnc.snssdk
