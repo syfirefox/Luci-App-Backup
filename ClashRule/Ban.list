@@ -26,9 +26,9 @@ DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
 DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN-KEYWORD,ad-union-sdk
 DOMAIN-KEYWORD,be-pack
-DOMAIN-KEYWORD,hongguo.ad,REJECT
+DOMAIN-KEYWORD,hongguo.ad
 # 字节系广告兜底（红果隶属字节）
-DOMAIN-SUFFIX,ad.pangle.cn,REJECT
+DOMAIN-SUFFIX,ad.pangle.cn
 DOMAIN-SUFFIX,ad.pangolin.cn
 DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-KEYWORD,tnc.snssdk
