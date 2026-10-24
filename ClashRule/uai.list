@@ -1,19 +1,4 @@
-# Anthropic / Core
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,anthropic.com.cn
-DOMAIN-SUFFIX,antspace.dev
-DOMAIN-SUFFIX,clau.de
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,claude.app
-DOMAIN-SUFFIX,claude.com
-DOMAIN-SUFFIX,claude.new
-DOMAIN-SUFFIX,claude.site
-DOMAIN-SUFFIX,claudemcpclient.com
-DOMAIN-SUFFIX,claudemcpcontent.com
-DOMAIN-SUFFIX,claudepages.dev
-DOMAIN-SUFFIX,claudestudio.com
-DOMAIN-SUFFIX,claudeusercontent.com
-DOMAIN-SUFFIX,modelcontextprotocol.com
-DOMAIN-SUFFIX,modelcontextprotocol.io
-DOMAIN-SUFFIX,modelcontextprotocol.net
-DOMAIN-SUFFIX,modelcontextprotocol.org
+DOMAIN-SUFFIX,fengkongcloud.com
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,xhscdn.net
+DOMAIN-SUFFIX,xiaohongshu.com
