@@ -31,7 +31,7 @@ DOMAIN,cdn.growthbook.io
 DOMAIN,cdn.usefathom.com
 DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN,storage.googleapis.com
-DOMAIN-SUFFIX,//github.com/aprilnea/reverse-engineering-claude-code-antspace
+DOMAIN-SUFFIX,reverse-engineering-claude-code-antspace
 DOMAIN-SUFFIX,ant.dev
 DOMAIN-SUFFIX,anthropic.team
 DOMAIN-SUFFIX,chatbotclaude.com
